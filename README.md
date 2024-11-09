@@ -1,9 +1,7 @@
 # Naive-Bayesian-Classifier
-implement the naïve Bayesian classifier
-to predict if the patient has diabities or not
+implement the naïve Bayesian classifier to predict if the patient has diabities or not
 
-#run code
-
-Download the dataset(csv file) and the code(ipynb file)
-Make sure both the files are in the same folder
-Use jupyter notebook to run the code
+#Run Code
+1. Download the dataset (diabetes.csv) and the code (naive_bayes_diabetes.ipynb).
+2. Make sure both files are in the same folder.
+3. Use Jupyter Notebook to run the code.
