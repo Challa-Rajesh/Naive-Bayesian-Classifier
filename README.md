@@ -1,2 +1,2 @@
-# Naive-Bayesian-Classifierr
+# Naive-Bayesian-Classifier
 implement the naïve Bayesian classifier
